@@ -1,0 +1,7 @@
+/.bundle
+/tmp
+/vendor/bundle
+.env
+.idea/
+.DS_Store
+rspec
