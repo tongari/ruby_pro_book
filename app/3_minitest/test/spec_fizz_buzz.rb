@@ -1,4 +1,4 @@
-require './app/minitest/lib/fizz_buzz'
+require './app/3_minitest/lib/fizz_buzz'
 
 RSpec.describe 'Fizz Buzz' do
   example 'fizz_buzz' do
